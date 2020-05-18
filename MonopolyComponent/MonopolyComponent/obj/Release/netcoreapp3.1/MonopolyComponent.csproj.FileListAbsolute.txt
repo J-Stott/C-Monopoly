@@ -1,0 +1,10 @@
+C:\Users\tehst\source\repos\MonopolyComponent\MonopolyComponent\bin\Release\netcoreapp3.1\MonopolyComponent.exe
+C:\Users\tehst\source\repos\MonopolyComponent\MonopolyComponent\bin\Release\netcoreapp3.1\MonopolyComponent.deps.json
+C:\Users\tehst\source\repos\MonopolyComponent\MonopolyComponent\bin\Release\netcoreapp3.1\MonopolyComponent.runtimeconfig.json
+C:\Users\tehst\source\repos\MonopolyComponent\MonopolyComponent\bin\Release\netcoreapp3.1\MonopolyComponent.runtimeconfig.dev.json
+C:\Users\tehst\source\repos\MonopolyComponent\MonopolyComponent\bin\Release\netcoreapp3.1\MonopolyComponent.dll
+C:\Users\tehst\source\repos\MonopolyComponent\MonopolyComponent\bin\Release\netcoreapp3.1\MonopolyComponent.pdb
+C:\Users\tehst\source\repos\MonopolyComponent\MonopolyComponent\obj\Release\netcoreapp3.1\MonopolyComponent.AssemblyInfoInputs.cache
+C:\Users\tehst\source\repos\MonopolyComponent\MonopolyComponent\obj\Release\netcoreapp3.1\MonopolyComponent.AssemblyInfo.cs
+C:\Users\tehst\source\repos\MonopolyComponent\MonopolyComponent\obj\Release\netcoreapp3.1\MonopolyComponent.dll
+C:\Users\tehst\source\repos\MonopolyComponent\MonopolyComponent\obj\Release\netcoreapp3.1\MonopolyComponent.pdb
